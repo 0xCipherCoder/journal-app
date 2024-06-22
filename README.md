@@ -1,27 +1,32 @@
-# Basic CRUD app 
-This is an example of an on-chain CRUD dapp. This example is a journal dapp where you can create, read, update, and delete journal entries on the solana blockchain and interact with the solana program via a UI. 
+# Journal Dapp: An On-Chain CRUD Application on Solana
 
-Test it out here: [solana-journal-eight.vercel.app](solana-journal-eight.vercel.app)
+This project demonstrates a basic CRUD (Create, Read, Update, Delete) dapp, specifically a journal application where you can manage journal entries on the Solana blockchain. The dapp interacts with a Solana program and provides a user-friendly UI for seamless interaction.
 
-This project was created using the [create-solana-dapp](https://github.com/solana-developers/create-solana-dapp) generator.
+
+## Project Overview
+
+This project was generated using the `create-solana-dapp` generator and consists of two main components:
+
+1. **Anchor**: A Solana program written in Rust using the Anchor framework.
+2. **Web**: A React application that interacts with the Solana program via the Anchor-generated client.
 
 ## Getting Started
 
 ### Prerequisites
 
-- Node v18.18.0 or higher
-- Rust v1.70.0 or higher
-- Anchor CLI 0.29.0 or higher
-- Solana CLI 1.17.0 or higher
+Ensure you have the following software installed:
+
+- **Node.js** v18.18.0 or higher
+- **Rust** v1.70.0 or higher
+- **Anchor CLI** 0.29.0 or higher
+- **Solana CLI** 1.17.0 or higher
 
 ### Installation
 
-#### Clone repo
-
-```shell
-git clone <repo-url>
-cd <repo-name>
-```
+1. **Clone the Repository**:
+   ```bash
+   git clone <repo-url>
+   cd <repo-name>
 
 #### Install dependencies
 
