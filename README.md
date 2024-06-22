@@ -2,6 +2,8 @@
 
 This project demonstrates a basic CRUD (Create, Read, Update, Delete) dapp, specifically a journal application where you can manage journal entries on the Solana blockchain. The dapp interacts with a Solana program and provides a user-friendly UI for seamless interaction.
 
+<img width="1273" alt="Solana-App" src="https://github.com/0xCipherCoder/journal-app/assets/169297618/25cd6595-725b-4ae5-8ca7-bb88ff2da3d0">
+
 
 ## Project Overview
 
